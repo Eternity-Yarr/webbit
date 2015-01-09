@@ -7,11 +7,11 @@
     <url>http://webbitserver.org/</url>
     <version>0.4.16-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <parent>
-        <groupId>org.sonatype.oss</groupId>
-        <artifactId>oss-parent</artifactId>
-        <version>6</version>
-    </parent>
+	<parent>
+		<groupId>clndr</groupId>
+		<artifactId>clndr</artifactId>
+		<version>0.1-SNAPSHOT</version>
+	</parent>
     <licenses>
         <license>
             <name>BSD License</name>
